@@ -10,6 +10,6 @@ I'm wuite pumped up to start with this challenge. Although I'm quite busy with m
 The projects I'll be taking on will be completely new and fresh and something related above work won't count.
 
 ### Day1
-I've started participating in online kaggle competitions. For now I've decided to go with a very introductory problem that will give me a bit of exposure about the kaggle environment and workspace in general. 
-I'll be working on Home Credit Default Risk. You can read more about the challenge on this https://www.kaggle.com/c/home-credit-default-risk. 
+I've started participating in online kaggle competitions. For now I've decided to go with a very introductory problem that will give me a bit of exposure about the kaggle environment and workspace in general.  
+I'll be working on Home Credit Default Risk. You can read more about the challenge on this [(https://www.kaggle.com/c/home-credit-default-risk. )]
 Now working on kaggle competitions can be highly overwhelming and looks very daunting at first. So I've forked one of the notebooks that can get me quickly started. For later projects, I'll be doing things from level zero. 
