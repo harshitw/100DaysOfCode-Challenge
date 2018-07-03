@@ -9,6 +9,9 @@ I'm wuite pumped up to start with this challenge. Although I'm quite busy with m
 
 The projects I'll be taking on will be completely new and fresh and something related above work won't count.
 
+# Blog 
+I'm also constantly updating all the details every single day on my blog on medium. Be sure to check it out. I'm planning to write about the entire 100 days series here. [(https://medium.com/series/1c5272b6c4a9)]
+
 ### Day1
 I've started participating in **online kaggle competitions**. For now I've decided to go with a very introductory problem that will give me a bit of exposure about the kaggle environment and workspace in general.  
 
