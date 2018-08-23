@@ -38,3 +38,6 @@ Today I explored more about pandas library. Used one hot and label encoder of sc
 I also read about few techniques like XGBoost. 
 You can check my code here in this notebook [(https://www.kaggle.com/harshit00/practice1/edit0)].
 I am also updating about my progress here on my blog [(https://medium.com/series/100-days-of-code-experiment-1c5272b6c4a9)]
+
+### Day 11
+Explored about more about data preprocessing mostly about handling missing values in the dataset using pandas.
